@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/installer": "^4.2",
+        "doctrine/dbal": "^3.2"
+    }
+}
